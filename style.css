@@ -1,0 +1,36 @@
+html{
+  scroll-behavior: smooth;
+}
+.navbar-nav{
+  padding: 1% 7%;
+  
+}
+.nav-link{
+  margin: 7px;
+  transition: .4s;
+}
+.card img{
+  display: block;
+  height: 200px;
+  width: 195px;
+}
+.footer-middle{
+  text-align: left;
+  color: #777;
+  background-color:#f6f6f6 ;
+  padding: 25px 0 10px;
+  overflow: hidden;
+}
+.footer-middle ul{
+list-style: none;
+}
+.footer-middle a{
+  text-decoration: none;
+  color: #777;
+  margin: 0;
+  outline: none;
+  padding: 0;
+}
+body{
+  background-color: #f6f6f6;
+}
